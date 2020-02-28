@@ -1,3 +1,6 @@
 i   {
     font-size: 2em;
 }
+#comment {
+    resize: none;
+}
